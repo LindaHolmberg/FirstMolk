@@ -10,7 +10,7 @@ namespace FirstMolk
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Mölk");
+            Console.WriteLine("Hello Mölk!");
             Console.ReadLine();
         }
     }
